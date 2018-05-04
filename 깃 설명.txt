@@ -8,3 +8,7 @@ commit = 버전바뀔때마다
 git commtit -m "Add hello" = 커밋하고 ""는 내역설명
 
 git reflog = 커밋 내역 보기
+
+git remote add origin https://github.com/개인주소
+
+git push -u origin(리모트에 추가한 이름으로) master = 푸쉬 올리기
