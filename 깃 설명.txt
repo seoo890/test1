@@ -12,3 +12,5 @@ git reflog = 커밋 내역 보기
 git remote add origin https://github.com/개인주소
 
 git push -u origin(리모트에 추가한 이름으로) master = 푸쉬 올리기
+
+git clone https:// = 프로젝트 불러오기.
