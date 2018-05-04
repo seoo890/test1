@@ -1,0 +1,10 @@
+git init = 깃에서 사용하겠다
+
+git add . = 파일 추가(전송)
+git add -A = 비슷하게 파일전송
+
+commit = 버전바뀔때마다 
+
+git commtit -m "Add hello" = 커밋하고 ""는 내역설명
+
+git reflog = 커밋 내역 보기
